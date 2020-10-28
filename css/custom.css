@@ -369,3 +369,19 @@
         border: 1px solid #58585a;
         color: #58585a;
     }
+    
+    .ftco-footer {
+        background: #000000cc;
+    }
+    
+    .services .media-body h3 {
+        color: #000000cc;
+    }
+    
+    .ftco-intro {
+        margin-bottom: 120px;
+    }
+    
+    #section-counter {
+        padding-bottom: 5em;
+    }
