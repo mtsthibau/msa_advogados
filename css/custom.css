@@ -385,3 +385,40 @@
     #section-counter {
         padding-bottom: 5em;
     }
+
+    .tab-content>.active {
+        margin-top: 50px;
+    }
+
+    .tabulation .tab-content h3 {
+        margin-bottom: 40px;
+    }
+
+    .tabulation .tab-content p {
+        font-size: 1.4em;
+    }
+
+    .g-recaptcha{
+        display: inline-block;
+    }
+    
+    
+    .text-xs-center {
+        text-align: center;
+    }
+
+    .owl-carousel.home-slider .slider-item .overlay{
+        background:rgb(104, 104, 104);
+    }
+
+    @media (min-width: 300px){
+        .d-xs-none {
+            display: none !important;
+        }
+    }
+
+    @media (min-width: 600px){
+        .d-xs-none {
+            display: block !important;
+        }
+    }
